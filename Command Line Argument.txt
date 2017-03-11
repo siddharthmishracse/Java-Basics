@@ -1,0 +1,12 @@
+
+		
+		
+			The Argument Provided From Command Line Along With Java Interpreter During The Execution
+
+			Of Program is Known as Command Line Argument.By Default These are String in nature and 
+
+			is accepted by Main Methods String Parameters . So, The Arguments are Accepted by args array.
+
+			Each Argument is Separated from one to another by Space . So, First Argument will be placed 
+
+			under args[0] , second under args[1] and so on.
