@@ -13,3 +13,4 @@ class SumOfTwoNumbers{
 		System.out.print("Sum of Two Numbers= "+sum);  //Display The sum 
 	}
 }
+just for hectoberfest.
