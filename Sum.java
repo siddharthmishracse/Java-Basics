@@ -4,10 +4,8 @@ class Sum{
 	public static void main(String [] args){
 
 		Scanner sc = new Scanner(System.in);
-		int a;		
-		int b;		
-		int sum; 
-			                   
+		int a,b,sum=0;		
+		 			                   
 		System.out.print("Enter The First value:-");
 		a=sc.nextInt();
 		System.out.print("Enter The Second value:-");
